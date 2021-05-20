@@ -1,0 +1,4 @@
+names: [door, bus_num_fr, license_plate, door_open, bus_num_side]
+nc: 5
+train: /content/dataset/train.txt
+val: /content/dataset/test.txt
